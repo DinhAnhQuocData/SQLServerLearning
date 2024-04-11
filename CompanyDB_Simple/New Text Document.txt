@@ -1,0 +1,19 @@
+Tạo một bảng "Employees" với các cột sau: EmployeeID (INT), FirstName (NVARCHAR), LastName (NVARCHAR), và DepartmentID (INT).
+
+Thêm một số dữ liệu vào bảng "Employees" bạn vừa tạo.
+
+Tạo một bảng "Departments" với các cột sau: DepartmentID (INT) và DepartmentName (NVARCHAR).
+
+Thêm một số dữ liệu vào bảng "Departments".
+
+Viết một truy vấn SQL để lấy danh sách tất cả các nhân viên và các bộ phận tương ứng của họ.
+
+Viết một truy vấn SQL để lấy danh sách các bộ phận và số lượng nhân viên trong mỗi bộ phận.
+
+Viết một truy vấn SQL để lấy thông tin của nhân viên có EmployeeID là 1.
+
+Viết một truy vấn SQL để cập nhật tên của nhân viên có EmployeeID là 1.
+
+Viết một truy vấn SQL để xóa nhân viên có EmployeeID là 1.
+
+Viết một truy vấn SQL để tính tổng số nhân viên trong mỗi bộ phận.
